@@ -199,10 +199,10 @@ Credit_Card_Financial_Dashboard.pbix
 ## 📸 Dashboard Preview
 
 ### Transaction Dashboard
-![Transaction Dashboard](images/transaction_dashboard.png)
+![Transaction Dashboard](transaction_report.jpg)
 
 ### Customer Dashboard
-![Customer Dashboard](images/customer_dashboard.png)
+![Customer Dashboard](images/customers_report.jpg)
 
 > Replace the image paths with actual screenshots from your repository.
 
