@@ -202,7 +202,7 @@ Credit_Card_Financial_Dashboard.pbix
 ![Transaction Dashboard](transaction_report.jpg)
 
 ### Customer Dashboard
-![Customer Dashboard](images/customers_report.jpg)
+![Customer Dashboard](customers_report.jpg)
 
 > Replace the image paths with actual screenshots from your repository.
 
